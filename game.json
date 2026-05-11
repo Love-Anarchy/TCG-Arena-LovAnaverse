@@ -1,0 +1,143 @@
+{
+  "name": "LovAnaverse",
+  "menuBackgroundImage": "https://loveanarchy.co/wp-content/uploads/2025/10/Print-Cover-Front-scaled.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://loveanarchy.co/wp-content/uploads/2025/10/Print-Cover-Front-scaled.jpg",
+      "https://loveanarchy.co/wp-content/uploads/2023/01/widebg-scaled.png"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://loveanarchy.co/tcgarena/cards.json",
+    "cardBack": "https://loveanarchy.co/wp-content/uploads/2026/05/Back-Cover-2.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "colour"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "You may re-draw your hand once if you wish.",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "",
+          "image": "",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "countersStartingValues": [
+        "40"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Arena",
+          "Æther",
+          "Support"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Arena",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Æther",
+                  "style": false
+                },
+                {
+                  "section": "Support",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {
+          "Character": "Arena",
+          "Non-Character": "Support"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Arena": {
+            "title": "Arena",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Characters",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Æther": {
+            "title": "Æther",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Resources",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Support": {
+            "title": "Support",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Non-Characters",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
