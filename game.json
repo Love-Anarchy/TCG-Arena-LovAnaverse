@@ -20,7 +20,13 @@
       "cost",
       "colour"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "Showdown",
+        "gameplay": "50+ card songbook. Max 3 of any card. 40 starting life.",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
