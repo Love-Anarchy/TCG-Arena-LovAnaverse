@@ -6,7 +6,7 @@
       "https://loveanarchy.co/wp-content/uploads/2025/10/Print-Cover-Front-scaled.jpg",
       "https://loveanarchy.co/wp-content/uploads/2023/01/widebg-scaled.png"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/refs/heads/main/decks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
