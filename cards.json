@@ -14,7 +14,6 @@
     "name": "Yarima Kuro | Dimarai Songstress",
     "type": "Character",
     "cost": "3",
-    "": "",
     "Colour": [
       "White"
     ],
@@ -41,7 +40,7 @@
       }
     },
     "name": "Kairos Antediluvian | Timeline Guardian",
-    "type": false,
+    "type": "Character",
     "cost": "5",
     "Colour": [
       "White",
