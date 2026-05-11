@@ -19,7 +19,7 @@
     ],
     "Power": "5",
     "Energy": "5",
-    "Sub-Types": [
+    "Sub-Type": [
       "Dima",
       "Faewarian",
       "Elf",
@@ -27,6 +27,32 @@
       "Fighter"
     ]
   },
+  "VL1-002": {
+    "id": "VL1-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nathan Murphy | Power Metal Ranger",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Nathan-Murphy-Power-Metal-Ranger.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nathan Murphy | Power Metal Ranger",
+    "type": "Character",
+    "cost": "3",
+    "Colour": [
+      "White"
+    ],
+    "Power": "7",
+    "Energy": "3",
+    "Sub-Type": [
+      "Galapeon",
+      "Human",
+      "Ranger"
+    ]
+      },
   "VL1-011": {
     "id": "VL1-011",
     "isToken": false,
@@ -48,7 +74,7 @@
     ],
     "Power": "6",
     "Energy": "8",
-    "Sub-Types": [
+    "Sub-Type": [
       "Atlantean",
       "Human",
       "God",
