@@ -53,6 +53,35 @@
       "Ranger"
     ]
   },
+  "VL1-011": {
+    "id": "VL1-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kairos Antediluvian | Timeline Guardian",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Kairos-Antediluvian-Timeline-Guardian.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kairos Antediluvian | Timeline Guardian",
+    "type": "Character",
+    "cost": "5",
+    "Colour": [
+      "White",
+      "Blue"
+    ],
+    "Power": "6",
+    "Energy": "8",
+    "Sub-Type": [
+      "Atlantean",
+      "Human",
+      "God",
+      "Time",
+      "Ranger"
+    ]
+  },
   "VL1-003": {
     "id": "VL1-003",
     "isToken": false,
@@ -274,35 +303,6 @@
       "Elf",
       "Rockstar",
       "Mage"
-    ]
-},
-"VL1-011": {
-    "id": "VL1-011",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Kairos Antediluvian | Timeline Guardian",
-        "type": "Character",
-        "cost": "5",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Kairos-Antediluvian-Timeline-Guardian.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Kairos Antediluvian | Timeline Guardian",
-    "type": "Character",
-    "cost": "5",
-    "Colour": [
-      "White",
-      "Blue"
-    ],
-    "Power": "6",
-    "Energy": "8",
-    "Sub-Type": [
-      "Atlantean",
-      "Human",
-      "God",
-      "Time",
-      "Ranger"
     ]
   }
 }
