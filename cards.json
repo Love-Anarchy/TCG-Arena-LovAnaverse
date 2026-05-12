@@ -274,7 +274,7 @@
       "Elf",
       "Rockstar",
       "Mage"
-      ]
+    ]
   },
   "VL1-011": {
     "id": "VL1-011",
@@ -303,6 +303,296 @@
       "God",
       "Time",
       "Ranger"
+    ]
+  },
+  "VL1-012": {
+    "id": "VL1-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dorian Quinn | Fate-Stalker",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Dorian-Quinn-Fate-Stalker.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dorian Quinn | Fate-Stalker",
+    "type": "Character",
+    "cost": "2",
+    "Colour": [
+      "Blue",
+      "Black"
+    ],
+    "Power": "3",
+    "Energy": "6",
+    "Sub-Type": [
+      "Human",
+      "Guitarist",
+      "Assassin",
+      "Rogue"
+    ]
+  },
+  "VL1-013": {
+    "id": "VL1-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alura Maleforvent | Demon Countess",
+        "type": false,
+        "cost": "3",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Alura-Maleforvent-Demon-Countess.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alura Maleforvent | Demon Countess",
+    "type": "Character",
+    "cost": "5",
+    "Colour": [
+      "Black",
+      "Red"
+    ],
+    "Power": "6",
+    "Energy": "6",
+    "Sub-Type": [
+      "Xavaxian",
+      "Elf",
+      "Vampire",
+      "Demon",
+      "Noble",
+      "Mage"
+    ]
+  },
+  "VL1-014": {
+    "id": "VL1-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grundle Bumfist | Rassler of Beasts",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Grundle-Bumfist-Rassler-of-Beasts.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grundle Bumfist | Rassler of Beasts",
+    "type": "Character",
+    "cost": "4",
+    "Colour": [
+      "Red",
+      "Green"
+    ],
+    "Power": "8",
+    "Energy": "6",
+    "Sub-Type": [
+      "Vlag",
+      "Gydunian",
+      "Rockstar",
+      "Brute"
+    ]
+  },
+  "VL1-015": {
+    "id": "VL1-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lauda Nova | Android Muse",
+        "type": false,
+        "cost": "3",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Lauda-Nova-Android-Muse.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lauda Nova | Android Muse",
+    "type": "Character",
+    "cost": "3",
+    "Colour": [
+      "White",
+      "Green"
+    ],
+    "Power": "4",
+    "Energy": "7",
+    "Sub-Type": [
+      "Cyber",
+      "Nymph",
+      "Healer",
+      "Muse"
+    ]
+  },
+  "VL1-016": {
+    "id": "VL1-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucien DeLacroix | Bloodline Paladin",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Lucien-DeLacroix-Bloodline-Paladin.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucien DeLacroix | Bloodline Paladin",
+    "type": "Character",
+    "cost": "4",
+    "Colour": [
+      "White",
+      "Black"
+    ],
+    "Power": "7",
+    "Energy": "7",
+    "Sub-Type": [
+      "Xavaxian",
+      "Vampire",
+      "Elf",
+      "Knight",
+      "Fighter"
+    ]
+  },
+  "VL1-017": {
+    "id": "VL1-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arron Archer | Gold Tiger",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Arron-Archer-Gold-Tiger.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arron Archer | Gold Tiger",
+    "type": "Character",
+    "cost": "3",
+    "Colour": [
+      "Blue",
+      "Red"
+    ],
+    "Power": "5",
+    "Energy": "5",
+    "Sub-Type": [
+      "Organic",
+      "Artificial",
+      "Cyber",
+      "Rockstar",
+      "Gangster"
+    ]
+  },
+  "VL1-018": {
+    "id": "VL1-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaius Black | Flavour Nurse",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Gaius-Black-Flavour-Nurse.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaius Black | Flavour Nurse",
+    "type": "Character",
+    "cost": "4",
+    "Colour": false,
+    "Power": "4",
+    "Energy": "6",
+    "Sub-Type": [
+      "Xavaxian",
+      "Faewarian",
+      "Vampire",
+      "Elf",
+      "Rockstar",
+      "Mage"
+    ]
+  },
+  "VL1-019": {
+    "id": "VL1-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hadraan Helvetech | Freedom Fighter",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Hadraan-Helvetech-Freedom-Fighter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hadraan Helvetech | Freedom Fighter",
+    "type": "Character",
+    "cost": "3",
+    "Colour": [
+      "White",
+      "Red"
+    ],
+    "Power": "6",
+    "Energy": "3",
+    "Sub-Type": [
+      "Cyber",
+      "Human",
+      "Rebel",
+      "Soldier",
+      "Fighter"
+    ]
+  },
+  "VL1-020": {
+    "id": "VL1-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raven Van Rijn | Flavour Nurse",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Raven-Van-Rijn-Flavour-Nurse.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raven Van Rijn | Flavour Nurse",
+    "type": "Character",
+    "cost": "2",
+    "Colour": [
+      "Blue",
+      "Green"
+    ],
+    "Power": "2",
+    "Energy": "6",
+    "Sub-Type": [
+      "Jala",
+      "Faewarian",
+      "Elf",
+      "Rockstar",
+      "Mage"
+    ]
+  },
+  "VL1-021": {
+    "id": "VL1-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Urania Fantasia | The Arcane Muse",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Urania-Fantasia-The-Arcane-Muse.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Urania Fantasia | The Arcane Muse",
+    "type": "Character",
+    "cost": "5",
+    "Colour": [
+      "White",
+      "Blue",
+      "Black",
+      "Red",
+      "Green"
+    ],
+    "Power": "11",
+    "Energy": "11",
+    "Sub-Type": [
+      "Faewarian",
+      "Elf",
+      "Elemental",
+      "Spirit",
+      "Diva",
+      "Muse"
     ]
   }
 }
