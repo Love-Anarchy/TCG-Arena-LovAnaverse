@@ -81,5 +81,62 @@
       "Time",
       "Ranger"
     ]
+  },
+  "VL1-003": {
+    "id": "VL1-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Niamh LuuxAria | Golden Haired",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Niamh-LuuxAria-Golden-Haired.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Niamh LuuxAria | Golden Haired",
+    "type": "Character",
+    "cost": "4",
+    "Colour": [
+      "White"
+    ],
+    "Power": "3",
+    "Energy": "7",
+    "Sub-Type": [
+      "Luxa",
+      "Faewarian",
+      "Elf",
+      "Noble",
+      "Muse"
+    ]
+  },
+  "VL1-004": {
+    "id": "VL1-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leo Voidweaver | Cosmic Seeker",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Leo-Voidweaver-Cosmic-Seeker.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leo Voidweaver | Cosmic Seeker",
+    "type": "Character",
+    "cost": "5",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "1",
+    "Energy": "9",
+    "Sub-Type": [
+      "Dima",
+      "Faewarian",
+      "Elf",
+      "Maestro",
+      "Scientist",
+      "Mage"
+    ]
   }
 }
