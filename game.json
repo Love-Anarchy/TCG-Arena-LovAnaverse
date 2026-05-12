@@ -44,14 +44,7 @@
         "drawPerTurn": 1
       },
       "defaultNotes": "",
-      "tokens": [
-        {
-          "name": "",
-          "image": "",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        }
-      ],
+      "tokens": [],
       "countersStartingValues": [
         "40"
       ],
@@ -87,14 +80,15 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [
-          "deck"
-        ],
+        "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
           "Character": "Arena",
           "Non-Character": "Support"
         },
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {
+          "Character": "Arena",
+          "Non-Character": "Support"
+        },
         "sectionsDict": {
           "Arena": {
             "title": "Arena",
