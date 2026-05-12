@@ -25,15 +25,9 @@
         "title": "Showdown",
         "gameplay": "Classic",
         "customCategories": []
-        "deckRuleset": "Classic"
       }
-  ],
-    "deckRulesets": {
-"Classic": {
-        "general": {
-          "min": 50,
-          "maxPerCard": 3
-        },
+    ]
+  },
   "gameplay": {
     "Classic": {
       "mulligan": {
