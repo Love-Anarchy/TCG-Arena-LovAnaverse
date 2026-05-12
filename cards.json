@@ -138,5 +138,171 @@
       "Scientist",
       "Mage"
     ]
+  },
+  "VL1-005": {
+    "id": "VL1-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lukaius Galgoth | Phantom Lord",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Lukaius-Galgoth-Phantom-Lord.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lukaius Galgoth | Phantom Lord",
+    "type": false,
+    "cost": "5",
+    "Colour": [
+      "Black"
+    ],
+    "Power": "8",
+    "Energy": "11",
+    "Sub-Type": [
+      "Alien",
+      "Spirit",
+      "Horror",
+      "Maestro",
+      "Guitarist",
+      "Mage"
+    ]
+  },
+  "VL1-006": {
+    "id": "VL1-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cain Aeshma | Incubus Diva",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Cain-Aeshma-Incubus-Diva.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cain Aeshma | Incubus Diva",
+    "type": "Character",
+    "cost": "4",
+    "Colour": [
+      "Red"
+    ],
+    "Power": "8",
+    "Energy": "6",
+    "Sub-Type": [
+      "Demon",
+      "Siren",
+      "Diva",
+      "Muse"
+    ]
+  },
+  "VL1-007": {
+    "id": "VL1-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scarlette Reign | LunarScape",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Scarlette-Reign-LunarScape.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scarlette Reign | LunarScape",
+    "type": "Character",
+    "cost": "3",
+    "Colour": [
+      "Red"
+    ],
+    "Power": "3",
+    "Energy": "7",
+    "Sub-Type": [
+      "Human",
+      "Rockstar",
+      "Fighter"
+    ]
+  },
+  "VL1-008": {
+    "id": "VL1-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estela Dara | Waterfall Born",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Estela-Dara-Waterfall-Born.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estela Dara | Waterfall Born",
+    "type": "Character",
+    "cost": "2",
+    "Colour": [
+      "Green"
+    ],
+    "Power": "1",
+    "Energy": "3",
+    "Sub-Type": [
+      "Human",
+      "Siren",
+      "Healer",
+      "Muse"
+    ]
+  },
+  "VL1-009": {
+    "id": "VL1-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Croon Jackass | Flavour Nurse",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Croon-Jackass-Flavour-Nurse.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Croon Jackass | Flavour Nurse",
+    "type": "Character",
+    "cost": "2",
+    "Colour": [
+      "Green"
+    ],
+    "Power": "2",
+    "Energy": "2",
+    "Sub-Type": [
+      "Gaia",
+      "Faewarian",
+      "Elf",
+      "Giant",
+      "Rockstar",
+      "Brute"
+    ]
+  },
+  "VL1-010": {
+    "id": "VL1-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sobias Sheim | Flavour Nurse",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Sobias-Sheim-Flavour-Nurse.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sobias Sheim | Flavour Nurse",
+    "type": "Character",
+    "cost": "3",
+    "Colour": [
+      "Green"
+    ],
+    "Power": "4",
+    "Energy": "7",
+    "Sub-Type": [
+      "Vayu",
+      "Faewarian",
+      "Elf",
+      "Rockstar",
+      "Mage"
+    ]
   }
 }
