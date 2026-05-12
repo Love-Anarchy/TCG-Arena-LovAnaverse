@@ -87,7 +87,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+          "deck"
+        ],
         "autoPlayFromHand": {
           "Character": "Arena",
           "Non-Character": "Support"
