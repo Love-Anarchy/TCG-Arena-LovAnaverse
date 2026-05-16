@@ -7,7 +7,7 @@
         "name": "Yarima Kuro | Dimarai Songstress",
         "type": "Character",
         "cost": "3",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Yarima-Kuro-Dimarai-Songstress.png",
+        "image": "https://github.com/Love-Anarchy/TCG-Arena-LovAnaverse/blob/7b775415c999eedbdc9aa221e7a236377cb2e7da/images/Yarima%20Kuro,%20Dimarai%20Songstress.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -594,5 +594,27 @@
       "Diva",
       "Muse"
     ]
+  },
+  "00": {
+    "id": "00",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dimarai Ancestor",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/7b775415c999eedbdc9aa221e7a236377cb2e7da/images/00.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dimarai Ancestor",
+    "type": "Character",
+    "cost": "1",
+    "Colour": [
+      "White"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": false
   }
 }
