@@ -595,15 +595,15 @@
       "Muse"
     ]
   },
-  "00": {
-    "id": "00",
+  "Dimarai Ancestor": {
+    "id": "Dimarai Ancestor",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dimarai Ancestor",
         "type": "Character",
         "cost": "1",
-        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/7b775415c999eedbdc9aa221e7a236377cb2e7da/images/00.webp",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Dimarai_Ancestor.webp",
         "isHorizontal": false
       }
     },
@@ -613,8 +613,275 @@
     "Colour": [
       "White"
     ],
+    "Power": "1",
+    "Energy": "1",
+    "Sub-Type": [
+      "Ætherial",
+      "Spirit",
+      "Dima",
+      "Faewarian",
+      "Elf",
+      "Samurai",
+      "Fighter"
+    ]
+  },
+  "Ætherial Muse": {
+    "id": "Ætherial Muse",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ætherial Muse",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Ætherial_Muse.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ætherial Muse",
+    "type": "Character",
+    "cost": "2",
+    "Colour": [
+      "White"
+    ],
+    "Power": "2",
+    "Energy": "4",
+    "Sub-Type": [
+      "Ætherial",
+      "Spirit",
+      "Muse"
+    ]
+  },
+  "Dimarai Warriors": {
+    "id": "Dimarai Warriors",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dimarai Warriors",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Dimarai_Warriors.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dimarai Warriors",
+    "type": "Character",
+    "cost": "2",
+    "Colour": [
+      "White"
+    ],
+    "Power": "2",
+    "Energy": "2",
+    "Sub-Type": [
+      "Dima",
+      "Faewarian",
+      "Elf",
+      "Samurai",
+      "Fighter"
+    ]
+  },
+  "Dimarai": {
+    "id": "Dimarai",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Dimarai",
+        "type": "Character",
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Dimarai.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dimarai",
+    "type": "Character",
+    "cost": "0",
+    "Colour": [
+      "White"
+    ],
+    "Power": "2",
+    "Energy": "2",
+    "Sub-Type": [
+      "Dima",
+      "Faewarian",
+      "Elf",
+      "Samurai",
+      "Fighter"
+    ]
+  },
+  "Sanguine Siren": {
+    "id": "Sanguine Siren",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanguine Siren",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Sanguine_Siren.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanguine Siren",
+    "type": "Character",
+    "cost": "2",
+    "Colour": [
+      "White"
+    ],
+    "Power": "2",
+    "Energy": "2",
+    "Sub-Type": [
+      "Xavaxian",
+      "Vampire",
+      "Elf",
+      "Siren",
+      "Noble",
+      "Muse"
+    ]
+  },
+  "Tarako | Dimarai Dragon": {
+    "id": "Tarako | Dimarai Dragon",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tarako | Dimarai Dragon",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Tarako_Dimarai_Dragon.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tarako | Dimarai Dragon",
+    "type": "Character",
+    "cost": "5",
+    "Colour": [
+      "White"
+    ],
+    "Power": "7",
+    "Energy": "10",
+    "Sub-Type": [
+      "Ætherial",
+      "Spirit",
+      "Dima",
+      "Dragon"
+    ]
+  },
+  "Light of Philosophy": {
+    "id": "Light of Philosophy",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Light of Philosophy",
+        "type": "Non-Character",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Light_of_Philosophy.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Light of Philosophy",
+    "type": "Non-Character",
+    "cost": "2",
+    "Colour": [
+      "White"
+    ],
     "Power": "",
     "Energy": "",
-    "Sub-Type": false
-  }
+    "Sub-Type": [
+      "Quick",
+      "Action"
+    ]
+  },
+  "Celestial Ambrosia": {
+    "id": "Celestial Ambrosia",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Celestial Ambrosia",
+        "type": "Non-Character",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Celestial_Ambrosia.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Celestial Ambrosia",
+    "type": "Non-Character",
+    "cost": "1",
+    "Colour": [
+      "White"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Quick",
+      "Item"
+    ]
+  },
+  "Incarcerate": {
+    "id": "Incarcerate",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incarcerate",
+        "type": "Non-Character",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Incarcerate.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Incarcerate",
+    "type": "Non-Character",
+    "cost": "3",
+    "Colour": [
+      "White"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Action"
+    ]
+  },
+  "Way of the Dimarai": {
+    "id": "Way of the Dimarai",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Way of the Dimarai",
+        "type": "Non-Character",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Way_of_tHe_Dimarai.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Way of the Dimarai",
+    "type": "Non-Character",
+    "cost": "3",
+    "Colour": [
+      "White"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Action"
+    ]
+  },
+  "Ætherial Tempest": {
+    "id": "Ætherial Tempest",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ætherial Tempest",
+        "type": "Non-Character",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Ætherial_Tempest.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ætherial Tempest",
+    "type": "Non-Character",
+    "cost": "4",
+    "Colour": [
+      "White"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Action"
+    ]
 }
