@@ -284,7 +284,7 @@
         "name": "Kairos Antediluvian | Timeline Guardian",
         "type": "Character",
         "cost": "5",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Kairos-Antediluvian-Timeline-Guardian.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Kairos_Antediluvian_Timeline_Guardian.png",
         "isHorizontal": false
       }
     },
@@ -313,7 +313,7 @@
         "name": "Dorian Quinn | Fate-Stalker",
         "type": "Character",
         "cost": "2",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Dorian-Quinn-Fate-Stalker.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Dorian_Quinn_Fate-Stalker.png",
         "isHorizontal": false
       }
     },
@@ -341,7 +341,7 @@
         "name": "Alura Maleforvent | Demon Countess",
         "type": false,
         "cost": "3",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Alura-Maleforvent-Demon-Countess.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Alura_Maleforvent_Demon_Countess.png",
         "isHorizontal": false
       }
     },
@@ -371,7 +371,7 @@
         "name": "Grundle Bumfist | Rassler of Beasts",
         "type": "Character",
         "cost": "4",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Grundle-Bumfist-Rassler-of-Beasts.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Grundle_Bumfist_Rassler_of_Beasts.png",
         "isHorizontal": false
       }
     },
@@ -399,7 +399,7 @@
         "name": "Lauda Nova | Android Muse",
         "type": false,
         "cost": "3",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Lauda-Nova-Android-Muse.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Lauda_Nova_Android_Muse.png",
         "isHorizontal": false
       }
     },
@@ -427,7 +427,7 @@
         "name": "Lucien DeLacroix | Bloodline Paladin",
         "type": "Character",
         "cost": "4",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Lucien-DeLacroix-Bloodline-Paladin.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Lucien_Delacroix_Bloodline_Paladin.png",
         "isHorizontal": false
       }
     },
@@ -456,7 +456,7 @@
         "name": "Arron Archer | Gold Tiger",
         "type": "Character",
         "cost": "3",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Arron-Archer-Gold-Tiger.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Arron_Archer_Gold_Tiger.png",
         "isHorizontal": false
       }
     },
@@ -485,7 +485,7 @@
         "name": "Gaius Black | Flavour Nurse",
         "type": "Character",
         "cost": "3",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Gaius-Black-Flavour-Nurse.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Gaius_Black_Flavour_Nurse.png",
         "isHorizontal": false
       }
     },
@@ -512,7 +512,7 @@
         "name": "Hadraan Helvetech | Freedom Fighter",
         "type": "Character",
         "cost": "3",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Hadraan-Helvetech-Freedom-Fighter.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Hadraan_Helvetech_Freedom_Fighter.png",
         "isHorizontal": false
       }
     },
@@ -541,7 +541,7 @@
         "name": "Raven Van Rijn | Flavour Nurse",
         "type": "Character",
         "cost": "2",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Raven-Van-Rijn-Flavour-Nurse.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Raven_Van_Rijn_Flavour_Nurse.png",
         "isHorizontal": false
       }
     },
@@ -570,7 +570,7 @@
         "name": "Urania Fantasia | The Arcane Muse",
         "type": "Character",
         "cost": "5",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Urania-Fantasia-The-Arcane-Muse.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Urania_Fantasia_The_Arcane_Muse.png",
         "isHorizontal": false
       }
     },
