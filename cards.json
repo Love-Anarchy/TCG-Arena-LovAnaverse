@@ -7,7 +7,7 @@
         "name": "Yarima Kuro | Dimarai Songstress",
         "type": "Character",
         "cost": "3",
-        "image": "https://github.com/Love-Anarchy/TCG-Arena-LovAnaverse/blob/7b775415c999eedbdc9aa221e7a236377cb2e7da/images/Yarima%20Kuro,%20Dimarai%20Songstress.png?raw=true",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Yarima_Kuro_Dimarai_Songstress.png",
         "isHorizontal": false
       }
     },
@@ -35,7 +35,7 @@
         "name": "Nathan Murphy | Power Metal Ranger",
         "type": "Character",
         "cost": "3",
-        "image": "https://loveanarchy.co/wp-content/uploads/2025/10/Nathan-Murphy-Power-Metal-Ranger.png",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Nathan_Murphy_Power_Metal_Ranger.png",
         "isHorizontal": false
       }
     },
