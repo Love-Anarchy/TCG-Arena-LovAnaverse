@@ -891,14 +891,14 @@
     "face": {
       "front": {
         "name": "Nyxari Groupie",
-        "type": "",
+        "type": "Character",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Nyxari_Groupie.webp",
         "isHorizontal": false
       }
     },
     "name": "Nyxari Groupie",
-    "type": "",
+    "type": "Character",
     "cost": "2",
     "Colour": [
       "Blue"
@@ -920,14 +920,14 @@
     "face": {
       "front": {
         "name": "Metronaught",
-        "type": "",
+        "type": "Character",
         "cost": "3",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Metronaught.webp",
         "isHorizontal": false
       }
     },
     "name": "Metronaught",
-    "type": "",
+    "type": "Character",
     "cost": "3",
     "Colour": [
       "Blue"
@@ -947,14 +947,14 @@
     "face": {
       "front": {
         "name": "Broken Eagle Steed",
-        "type": "",
+        "type": "Character",
         "cost": "3",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Broken_Eagle_Steed.webp",
         "isHorizontal": false
       }
     },
     "name": "Broken Eagle Steed",
-    "type": "",
+    "type": "Character",
     "cost": "3",
     "Colour": [
       "Blue"
@@ -972,14 +972,14 @@
     "face": {
       "front": {
         "name": "Bartholomew | Library Ghost",
-        "type": "",
+        "type": "Character",
         "cost": "5",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Bartholomew_Library_Ghost.webp",
         "isHorizontal": false
       }
     },
     "name": "Bartholomew | Library Ghost",
-    "type": "",
+    "type": "Character",
     "cost": "5",
     "Colour": [
       "Blue"
@@ -997,14 +997,14 @@
     "face": {
       "front": {
         "name": "Albino Reptiloid | Cosmic Nightmare",
-        "type": "",
+        "type": "Character",
         "cost": "7",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Albino_Reptiloid_Cosmic_Nightmare.webp",
         "isHorizontal": false
       }
     },
     "name": "Albino Reptiloid | Cosmic Nightmare",
-    "type": "",
+    "type": "Character",
     "cost": "7",
     "Colour": [
       "Blue"
@@ -1025,14 +1025,14 @@
     "face": {
       "front": {
         "name": "Cosmic Dance",
-        "type": "",
+        "type": "Character",
         "cost": "1",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Cosmic_Dance.webp",
         "isHorizontal": false
       }
     },
     "name": "Cosmic Dance",
-    "type": "",
+    "type": "Character",
     "cost": "1",
     "Colour": [
       "Blue"
@@ -1050,14 +1050,14 @@
     "face": {
       "front": {
         "name": "Silverthorn Serum",
-        "type": "",
+        "type": "Non-Character",
         "cost": "1",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Silverthorn_Serum.webp",
         "isHorizontal": false
       }
     },
     "name": "Silverthorn Serum",
-    "type": "",
+    "type": "Non-Character",
     "cost": "1",
     "Colour": [
       "Blue"
@@ -1075,14 +1075,14 @@
     "face": {
       "front": {
         "name": "Vertigo",
-        "type": "",
+        "type": "Non-Character",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Vertigo.webp",
         "isHorizontal": false
       }
     },
     "name": "Vertigo",
-    "type": "",
+    "type": "Non-Character",
     "cost": "2",
     "Colour": [
       "Blue"
@@ -1100,14 +1100,14 @@
     "face": {
       "front": {
         "name": "Counter",
-        "type": "",
+        "type": "Non-Character",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Counter.webp",
         "isHorizontal": false
       }
     },
     "name": "Counter",
-    "type": "",
+    "type": "Non-Character",
     "cost": "2",
     "Colour": [
       "Blue"
@@ -1125,14 +1125,14 @@
     "face": {
       "front": {
         "name": "Order Parts",
-        "type": "",
+        "type": "Non-Character",
         "cost": "1",
         "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Order_Parts.webp",
         "isHorizontal": false
       }
     },
     "name": "Order Parts",
-    "type": "",
+    "type": "Non-Character",
     "cost": "1",
     "Colour": [
       "Blue"
