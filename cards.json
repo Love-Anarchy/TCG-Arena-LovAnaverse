@@ -884,5 +884,264 @@
     "Sub-Type": [
       "Action"
     ]
-  }  
+  },
+  "Nyxari Groupie": {
+    "id": "Nyxari Groupie",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nyxari Groupie",
+        "type": "",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Nyxari_Groupie.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nyxari Groupie",
+    "type": "",
+    "cost": "2",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "1",
+    "Energy": "7",
+    "Sub-Type": [
+      "Nyxari",
+      "Dima",
+      "Faewarian",
+      "Pixie",
+      "Nymph",
+      "Groupie"
+    ]
+  },
+  "Metronaught": {
+    "id": "Metronaught",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Metronaught",
+        "type": "",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Metronaught.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metronaught",
+    "type": "",
+    "cost": "3",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "4",
+    "Energy": "4",
+    "Sub-Type": [
+      "Artificial",
+      "Cyber",
+      "Time",
+      "Robot"
+    ]
+  },
+  "Broken Eagle Steed": {
+    "id": "Broken Eagle Steed",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Broken Eagle Steed",
+        "type": "",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Broken_Eagle_Steed.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Broken Eagle Steed",
+    "type": "",
+    "cost": "3",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "4",
+    "Energy": "4",
+    "Sub-Type": [
+      "Creature",
+      "Bird"
+    ]
+  },
+  "Bartholomew | Library Ghost": {
+    "id": "Bartholomew | Library Ghost",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bartholomew | Library Ghost",
+        "type": "",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Bartholomew_Library_Ghost.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bartholomew | Library Ghost",
+    "type": "",
+    "cost": "5",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "5",
+    "Energy": "5",
+    "Sub-Type": [
+      "Spirit",
+      "Worker"
+    ]
+  },
+  "Albino Reptiloid | Cosmic Nightmare": {
+    "id": "Albino Reptiloid | Cosmic Nightmare",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Albino Reptiloid | Cosmic Nightmare",
+        "type": "",
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Albino_Reptiloid_Cosmic_Nightmare.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Albino Reptiloid | Cosmic Nightmare",
+    "type": "",
+    "cost": "7",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "9",
+    "Energy": "8",
+    "Sub-Type": [
+      "Reptiloid",
+      "Alien",
+      "Reptile",
+      "Spirit",
+      "Horror"
+    ]
+  },
+  "Cosmic Dance": {
+    "id": "Cosmic Dance",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cosmic Dance",
+        "type": "",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Cosmic_Dance.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cosmic Dance",
+    "type": "",
+    "cost": "1",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Quick",
+      "Action"
+    ]
+  },
+  "Silverthorn Serum": {
+    "id": "Silverthorn Serum",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Silverthorn Serum",
+        "type": "",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Silverthorn_Serum.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silverthorn Serum",
+    "type": "",
+    "cost": "1",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Quick",
+      "Item"
+    ]
+  },
+  "Vertigo": {
+    "id": "Vertigo",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vertigo",
+        "type": "",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Vertigo.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vertigo",
+    "type": "",
+    "cost": "2",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Quick",
+      "Action"
+    ]
+  },
+  "Counter": {
+    "id": "Counter",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Counter",
+        "type": "",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Counter.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Counter",
+    "type": "",
+    "cost": "2",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Quick",
+      "Action"
+    ]
+  },
+  "Order Parts": {
+    "id": "Order Parts",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Order Parts",
+        "type": "",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Love-Anarchy/TCG-Arena-LovAnaverse/main/images/Order_Parts.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Order Parts",
+    "type": "",
+    "cost": "1",
+    "Colour": [
+      "Blue"
+    ],
+    "Power": "",
+    "Energy": "",
+    "Sub-Type": [
+      "Quick",
+      "Action"
+    ]
+  }
 }
